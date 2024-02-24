@@ -1,5 +1,9 @@
 package domen;
 
+/**
+ * @apiNote Добавлен класс горячие напитки
+ */
+
 public class HotDrink extends Product{
     private int temperature;
 
